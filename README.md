@@ -1,4 +1,4 @@
-<img align="top" alt="namaste" width="22px" src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" />  ![](https://visitor-badge.glitch.me/badge?page_id=am-vishal.am-vishal)
+<img align="top" alt="namaste" width="22px" src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" />  ![](https://visitor-badge.glitch.me/badge?page_id=vishal-echidna.vishal-echidna)
 
 <b>I'm [Vishal](https://am-vishal.github.io/), a MERN-Stack Developer 🚀 and currently working on a web application.</b>
 
