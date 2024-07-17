@@ -1,6 +1,6 @@
 <img align="top" alt="namaste" width="22px" src="https://media.tenor.com/VavSdtvIXEgAAAAi/namaste.gif" />
 
-<b>I'm [Vishal](https://am-vishal.github.io/), a MERN-Stack Developer 🚀 and currently working on a web application.</b>
+<b>I'm [Vishal](https://am-vishal.github.io/), a MERN-Stack Developer 🚀 and currently working on a e-commerce web application.</b>
 
 **Languages and Tools:**  
 
